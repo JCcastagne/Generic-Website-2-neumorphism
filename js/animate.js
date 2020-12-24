@@ -1,4 +1,7 @@
 
+//Generic Website 2 - By J-C Castagne @ Github https://github.com/JCcastagne
+//code by J-C, script by WayPoint.js @ http://imakewebthings.com/waypoints/
+
 var waypoint = new Waypoint({
   element: document.getElementById('pageOne'),
   handler: function() {
